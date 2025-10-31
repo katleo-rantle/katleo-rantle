@@ -11,13 +11,15 @@ Hi there 👋 I’m **Katleo Rantle** — a **Full Stack Developer** passionate 
 
 > Practical AWS builds that showcase cloud fundamentals, automation, and architecture — each documented in detail for transparency and proof-of-work.
 
-🚧 **Work in Progress — projects will be added soon!**
-
-<!--
-<div align="center">
+<!--🚧 **Work in Progress — projects will be added soon!**
+-->
+<div align="left">
 
 | Project | Description | Links |
 |---|---|---|
+| <img src="https://github.com/katleo-rantle/katleo-rantle/blob/main/part1.png" width="240" alt="Cloud Web App Setup Architecture"/> <br> **Cloud Web App Foundation** | Foundation for a CI/CD pipeline set up on **AWS EC2** for a **Java Web App** Tools installed include **Maven** and **Corretto 8**, with **VS Code Remote-SSH** for cloud development. | [📄 Documentation (PDF)](https://github.com/katleo-rantle/katleo-rantle/blob/main/2025-10-30_Set%20Up%20a%20Web%20App%20in%20the%20Cloud.pdf)
+
+<!--
 | <img src="assets/aws-portfolio-architecture.png" width="240" alt="Serverless Portfolio Architecture"/> <br> **Serverless Portfolio Website** | Static portfolio site hosted on **AWS S3** and **CloudFront**, powered by **Lambda@Edge** for dynamic routing. CI/CD integrated via **GitHub Actions**. | [📄 Documentation (PDF)](docs/aws-portfolio-docs.pdf) • [📂 Code](https://github.com/katleo-rantle/aws-portfolio) |
 | <img src="assets/aws-ecs-architecture.png" width="240" alt="ECS Deployment Architecture"/> <br> **ECS Container Deployment** | Deployed a Node.js REST API on **AWS ECS (Fargate)** using **ECR**, **ALB**, and **CloudWatch** for scaling and monitoring. | [📄 Architecture PDF](docs/aws-ecs-deployment.pdf) • [📂 Code](https://github.com/katleo-rantle/aws-ecs-deployment) |
 | <img src="assets/aws-s3-site.png" width="240" alt="S3 Static Hosting"/> <br> **S3 Static Hosting + CloudFront** | Hosted a React frontend with **HTTPS**, **DNS routing** via Route 53, and caching optimization with CloudFront. | [📄 Setup PDF](docs/aws-s3-static-site.pdf) • [📂 Code](https://github.com/katleo-rantle/aws-s3-static-hosting) |
