@@ -8,15 +8,75 @@
 I'm a **Full-Stack Developer** passionate about building modern, scalable applications and exploring how **cloud technologies like AWS** can make them even better.  
 I love learning through **hands-on projects**, combining frontend creativity with backend logic — and lately, I’ve been diving deep into **AWS serverless and containerized deployments**.
 
-- 🌱 Currently learning **AWS Cloud Architecture** through real projects  
+- 🌱 Currently learning **AWS Cloud Architecture** through real-world projects  
 - 💻 Building end-to-end web apps using **React**, **Next.js**, **Node.js**, and **Express**  
-- ⚙️ Exploring how to deploy applications efficiently on **AWS (Lambda, S3, EC2, and EKS)**  
+- ☁️ Exploring deployments using **AWS Lambda**, **S3**, **EC2**, and **EKS**  
 - 🎯 Goal: To master **cloud-native full-stack development**  
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/katleo-rantle)**  
 
 ---
 
-### 🧩 Tech Stack
+## 🧩 Featured Projects
+
+> A showcase of my top **Full-Stack** and **Cloud Computing** projects — complete with live demos, architecture diagrams, and proof-of-work documentation.
+
+<div align="center">
+
+<table>
+<tr>
+<td width="45%" align="center">
+  
+### 🌐 Portfolio Website  
+Built with **Next.js** & **TailwindCSS**, hosted on **AWS S3 + CloudFront**.  
+<img src="assets/portfolio-preview.png" width="100%" alt="Portfolio Screenshot"/><br>
+  
+[![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/katleo-rantle/portfolio)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://katleo.netlify.app)
+</td>
+
+<td width="45%" align="center">
+
+### ⚡ Task Manager App  
+A **React + Node.js + MongoDB** CRUD app with JWT auth and RESTful APIs.  
+<img src="assets/taskapp-preview.png" width="100%" alt="Task Manager Screenshot"/><br>
+
+[![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/katleo-rantle/task-manager)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-F24E1E?style=for-the-badge&logo=react&logoColor=white)](https://taskmanager.katleo.dev)
+</td>
+</tr>
+
+<tr>
+<td width="45%" align="center">
+
+### ☁️ Serverless Image Upload API  
+**AWS Lambda + S3 + API Gateway** serverless app with upload & retrieval endpoints.  
+<img src="assets/serverless-architecture.png" width="100%" alt="Serverless Architecture Diagram"/><br>
+
+[![Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/katleo-rantle/serverless-image-upload)
+[![Docs](https://img.shields.io/badge/Documentation_PDF-FF9900?style=for-the-badge&logo=readme&logoColor=white)](docs/serverless-upload-docs.pdf)
+
+</td>
+
+<td width="45%" align="center">
+
+### 🧱 EKS Cluster Deployment  
+Deployed a React app to **Amazon EKS** via a full CI/CD pipeline.  
+<img src="assets/eks-architecture.png" width="100%" alt="EKS Architecture Diagram"/><br>
+
+[![Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/katleo-rantle/eks-cluster-demo)
+[![Docs](https://img.shields.io/badge/Proof_of_Work_PDF-FF9900?style=for-the-badge&logo=readme&logoColor=white)](docs/eks-cluster-demo.pdf)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> 🧩 More projects coming soon as I continue building and documenting my AWS learning journey!
+
+---
+
+## 💻 Tech Stack
 
 #### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,19 +111,7 @@ I love learning through **hands-on projects**, combining frontend creativity wit
 
 ---
 
-### 🚀 Featured Projects
-Here are a few highlights from my current learning journey:
-
-- 🧩 **AWS Hands-On Labs** – experimenting with Lambda, S3 hosting, and CI/CD on CloudFormation  
-- 🕹️ **React Dashboard App** – visualizing data with Chart.js & API integration  
-- ⚡ **Full-Stack CRUD App** – Node.js + MongoDB backend with a responsive React UI  
-- ☁️ **Next.js Portfolio on AWS** – hosted using S3 and CloudFront for serverless delivery  
-
-> *I believe the best way to learn is by building — every project teaches me something new.*
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=katleo-rantle&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=katleo-rantle&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=katleo-rantle&theme=tokyonight&hide_border=false&layout=compact)
