@@ -11,6 +11,9 @@ Hi there 👋 I’m **Katleo Rantle** — a **Full Stack Developer** passionate 
 
 > Practical AWS builds that showcase cloud fundamentals, automation, and architecture — each documented in detail for transparency and proof-of-work.
 
+🚧 **Work in Progress — projects will be added soon!**
+
+<!--
 <div align="center">
 
 | Project | Description | Links |
@@ -20,6 +23,7 @@ Hi there 👋 I’m **Katleo Rantle** — a **Full Stack Developer** passionate 
 | <img src="assets/aws-s3-site.png" width="240" alt="S3 Static Hosting"/> <br> **S3 Static Hosting + CloudFront** | Hosted a React frontend with **HTTPS**, **DNS routing** via Route 53, and caching optimization with CloudFront. | [📄 Setup PDF](docs/aws-s3-static-site.pdf) • [📂 Code](https://github.com/katleo-rantle/aws-s3-static-hosting) |
 
 </div>
+-->
 
 ---
 
@@ -27,6 +31,9 @@ Hi there 👋 I’m **Katleo Rantle** — a **Full Stack Developer** passionate 
 
 > Interactive, scalable web applications built with modern frameworks, focusing on clean UI/UX and efficient backend integration.
 
+🚧 **Work in Progress — full stack app demos coming soon!**
+
+<!--
 <div align="center">
 
 | Project | Description | Links |
@@ -36,6 +43,7 @@ Hi there 👋 I’m **Katleo Rantle** — a **Full Stack Developer** passionate 
 | <img src="assets/devnotes-preview.png" width="240" alt="DevNotes Screenshot"/> <br> **DevNotes – Cloud Synced Notes** | Note-taking app with **speech-to-text** and **cloud sync**. Built using **Express**, **AWS DynamoDB**, and **S3** for storage. | [📂 Code](https://github.com/katleo-rantle/devnotes) |
 
 </div>
+-->
 
 ---
 
