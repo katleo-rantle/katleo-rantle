@@ -15,6 +15,7 @@ Hi there 👋 I’m **Katleo Rantle** — a **Full Stack Developer** passionate 
 
 | Project | Description | Links |
 |---|---|---|
+| **Containerized Express App** | Demonstrates how to dockerize a **Node.js/Express** backend. Includes optimized layer caching for `node_modules` and environment variable management for production. | [📄 Download PDF](https://github.com/katleo-rantle/containerized-express-app/blob/master/docs/docker-proj-containerize%20an%20express%20app.pdf) • [📂 Code](https://github.com/katleo-rantle/containerized-express-app) |
 | **Containerized React App** | A deep dive into **Multi-stage builds**. Optimized a React production build using **Node.js** and **Nginx** base images to create a lightweight, high-performance container. |[📄 Download Documentation](https://github.com/katleo-rantle/containerized-react-app/raw/master/docker-proj-containerize%20react%20app.pdf) • [📂 Code](https://github.com/katleo-rantle/containerized-react-app) |
 
 </div>
