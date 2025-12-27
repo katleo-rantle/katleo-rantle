@@ -15,7 +15,7 @@ Hi there 👋 I’m **Katleo Rantle** — a **Full Stack Developer** passionate 
 
 | Project | Description | Links |
 |---|---|---|
-| **Containerized React App** | A deep dive into **Multi-stage builds**. Optimized a React production build using **Node.js** and **Nginx** base images to create a lightweight, high-performance container. | [📄 Documentation (PDF)](https://github.com/katleo-rantle/containerized-react-app/blob/master/docker-proj-containerize%20react%20app.pdf) • [📂 Code](https://github.com/katleo-rantle/containerized-react-app) |
+| **Containerized React App** | A deep dive into **Multi-stage builds**. Optimized a React production build using **Node.js** and **Nginx** base images to create a lightweight, high-performance container. |[📄 Download Documentation](https://github.com/katleo-rantle/containerized-react-app/raw/master/docker-proj-containerize%20react%20app.pdf) • [📂 Code](https://github.com/katleo-rantle/containerized-react-app) |
 
 </div>
 
@@ -29,7 +29,7 @@ Hi there 👋 I’m **Katleo Rantle** — a **Full Stack Developer** passionate 
 
 | Project | Description | Links |
 |---|---|---|
-| <img src="https://github.com/katleo-rantle/katleo-rantle/blob/main/part1.png" width="240" alt="Cloud Web App Setup Architecture"/> <br> **Cloud Web App Foundation** | Foundation for a CI/CD pipeline set up on **AWS EC2** for a **Java Web App**. Tools installed include **Maven** and **Corretto 8**, with **VS Code Remote-SSH** for cloud development. | [📄 Documentation (PDF)](https://github.com/katleo-rantle/katleo-rantle/blob/main/2025-10-30_Set%20Up%20a%20Web%20App%20in%20the%20Cloud.pdf) |
+| <img src="https://github.com/katleo-rantle/katleo-rantle/blob/main/part1.png" width="240" alt="Cloud Web App Setup Architecture"/> <br> **Cloud Web App Foundation** | Foundation for a CI/CD pipeline set up on **AWS EC2** for a **Java Web App**. Tools installed include **Maven** and **Corretto 8**, with **VS Code Remote-SSH** for cloud development. | [📄 Download Documentation](https://github.com/katleo-rantle/katleo-rantle/raw/main/2025-10-30_Set%20Up%20a%20Web%20App%20in%20the%20Cloud.pdf)
 
 </div>
 
