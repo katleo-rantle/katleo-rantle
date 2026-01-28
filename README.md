@@ -31,6 +31,7 @@ Hi there 👋 I’m **Katleo Rantle** — a **Full Stack Developer** passionate 
 | Project | Description | Links |
 |---|---|---|
 | <img src="https://github.com/katleo-rantle/katleo-rantle/blob/main/part1.png" width="240" alt="Cloud Web App Setup Architecture"/> <br> **Cloud Web App Foundation** | Foundation for a CI/CD pipeline set up on **AWS EC2** for a **Java Web App**. Tools installed include **Maven** and **Corretto 8**, with **VS Code Remote-SSH** for cloud development. | [📄 Download Documentation](https://github.com/katleo-rantle/katleo-rantle/raw/main/2025-10-30_Set%20Up%20a%20Web%20App%20in%20the%20Cloud.pdf)
+| <img src="https://github.com/katleo-rantle/katleo-rantle/blob/main/Build a VPC - 2026-01-28_18-45.png" width="240" alt="VPC Setup Architecture"/> <br> **Build VPC from scratch** | In this hands-on AWS project, I built a custom Virtual Private Cloud (VPC) from scratch to truly understand core networking concepts. I created the VPC with its own CIDR block, set up a public subnet, and attached an Internet Gateway to enable internet access | [📄 Download Documentation](https://github.com/katleo-rantle/katleo-rantle/blob/main/legendary-aws-networks-vpc.pdf)
 
 </div>
 
