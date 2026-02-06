@@ -7,18 +7,14 @@ Hi there 👋 I’m **Katleo Rantle** — a **Full Stack Developer** passionate 
 
 ---
 
-## 🐋 Docker Projects
+## 💻 Full Stack Applications  
 
-> Exploring containerization, orchestration, and streamlining development-to-production workflows.
+> Interactive, scalable web applications built with modern frameworks, focusing on clean UI/UX and efficient backend integration.
 
-<div align="left">
-
-| Project | Description | Links |
-|---|---|---|
-| **Containerized Express App** | Demonstrates how to dockerize a **Node.js/Express** backend. Includes optimized layer caching for `node_modules` and environment variable management for production. | [📄 Download PDF](https://github.com/katleo-rantle/containerized-express-app/blob/master/docs/docker-proj-containerize%20an%20express%20app.pdf) • [📂 Code](https://github.com/katleo-rantle/containerized-express-app) |
-| **Containerized React App** | A deep dive into **Multi-stage builds**. Optimized a React production build using **Node.js** and **Nginx** base images to create a lightweight, high-performance container. |[📄 Download Documentation](https://github.com/katleo-rantle/containerized-react-app/raw/master/docker-proj-containerize%20react%20app.pdf) • [📂 Code](https://github.com/katleo-rantle/containerized-react-app) |
-
-</div>
+- **Task Management App**  
+  A full-stack task manager with a **Spring Boot Java REST API** backend (repository: [katleo-rantle/Java-task-api](https://github.com/katleo-rantle/Java-tasks-API)).  
+  - **Backend**: Handles CRUD operations for tasks, built with Spring Web, Spring Data JPA, Bean Validation, and H2 database (in-memory for dev). Dockerized for easy setup.  
+  - **Frontend**: Prebuilt UI served from a container/image (React/Angular/Vue — details in docker-compose setup).
 
 ---
 
@@ -36,14 +32,20 @@ Hi there 👋 I’m **Katleo Rantle** — a **Full Stack Developer** passionate 
 | <img src="https://github.com/katleo-rantle/katleo-rantle/blob/main/proj-private-subnet-2026-01-30_11-58.png" width="240" alt="VPC Setup Architecture"/> <br> **Private subnet** | In this project, I created a private subnet along with its own custom route table and a dedicated Network ACL to enforce subnet-level security rules, ensuring resources remain isolated from direct public internet access. This hands-on work helped me understand how private subnets enhance VPC security through layered controls | [📄 Download Documentation](https://github.com/katleo-rantle/katleo-rantle/blob/main/legendary-aws-networks-private.pdf)
 
 </div>
-
 ---
 
-## 💻 Full Stack Applications  
+## 🐋 Docker Projects
 
-> Interactive, scalable web applications built with modern frameworks, focusing on clean UI/UX and efficient backend integration.
+> Exploring containerization, orchestration, and streamlining development-to-production workflows.
 
-🚧 **Work in Progress — full stack app demos coming soon!**
+<div align="left">
+
+| Project | Description | Links |
+|---|---|---|
+| **Containerized Express App** | Demonstrates how to dockerize a **Node.js/Express** backend. Includes optimized layer caching for `node_modules` and environment variable management for production. | [📄 Download PDF](https://github.com/katleo-rantle/containerized-express-app/blob/master/docs/docker-proj-containerize%20an%20express%20app.pdf) • [📂 Code](https://github.com/katleo-rantle/containerized-express-app) |
+| **Containerized React App** | A deep dive into **Multi-stage builds**. Optimized a React production build using **Node.js** and **Nginx** base images to create a lightweight, high-performance container. |[📄 Download Documentation](https://github.com/katleo-rantle/containerized-react-app/raw/master/docker-proj-containerize%20react%20app.pdf) • [📂 Code](https://github.com/katleo-rantle/containerized-react-app) |
+
+</div>
 
 ---
 
@@ -77,8 +79,8 @@ Hi there 👋 I’m **Katleo Rantle** — a **Full Stack Developer** passionate 
 
 ## 🧭 Connect With Me  
 📄 [View My CV](https://www.canva.com/design/DAG24PI9YqU/SDeByk1hFA5Rt7YkcqZGzg/view)  
-💼 [LinkedIn](https://www.linkedin.com/in/katleo-rantle)  
-📧 **rantlekatleo@gmail.com**
+💼 [LinkedIn](https://www.linkedin.com/in/katleo-rantle-b18a94214/)
+📧 **kprantle@gmail.com**
 
 ---
 
