@@ -10,9 +10,9 @@ I learn by building, breaking, fixing, and documenting.
 
 ---
 
-## 🧭 Connect With Me
+🧭 Connect With Me
 
-📄 [View My CV](https://github.com/katleo-rantle/Katleo_Rantle_CV%20(updated).pdf)  
+📄 [View My CV](https://github.com/katleo-rantle/katleo-rantle/raw/main/Katleo_Rantle_CV.pdf)
 💼 [LinkedIn](https://www.linkedin.com/in/katleo-rantle-b18a94214/)  
 🌐 [Portfolio](https://katleo.co.za)  
 📧 **kprantle@gmail.com**
@@ -78,9 +78,9 @@ Hands-on cloud projects with full documentation:
 
 ## 📊 GitHub Stats
 
-![Katleo's GitHub stats](https://github-readme-stats.vercel.app/api?username=katleo-rantle&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=katleo-rantle&theme=dark&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katleo-rantle&theme=dark&layout=compact)
+![Katleo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=katleo-rantle&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=katleo-rantle&theme=dark&hide_border=false)  
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=katleo-rantle&theme=dark&layout=compact)
 
 ---
 
