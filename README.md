@@ -1,6 +1,7 @@
 # 💫 About Me
 
 Hi there 👋 I’m **Katleo Rantle** 
+
 — a **Full Stack Developer** passionate about building and deploying **cloud-powered applications**
 
 Currently focused on continuously upskilling in full-stack development, Java, Angular, AWS, and DevOps while seeking software engineering opportunities, graduate programs, or entry-level roles
