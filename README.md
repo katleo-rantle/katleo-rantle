@@ -77,7 +77,8 @@ Hands-on cloud projects with full documentation:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=katleo-rantle&theme=dark&hide_border=false)
 
-![Katleo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=katleo-rantle&theme=github-dark)
+![Contributions](https://img.shields.io/badge/Contributions-230%2B-orange?style=for-the-badge&logo=github)
+![Primary Language](https://img.shields.io/badge/Top%20Tech-TypeScript%20%7C%20Java-blue?style=for-the-badge&logo=typescript)
 
 ---
 
