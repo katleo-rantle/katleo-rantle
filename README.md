@@ -75,9 +75,8 @@ Hands-on cloud projects with full documentation:
 
 ## 📊 GitHub Stats
 
-![Katleo's GitHub stats](https://github-readme-stats-git-masterrst-anuraghazras-projects.vercel.app/api?username=katleo-rantle&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=katleo-rantle&theme=dark&hide_border=false)  
-![Top Langs](https://github-readme-stats-git-masterrst-anuraghazras-projects.vercel.app/api/top-langs/?username=katleo-rantle&theme=dark&layout=compact)
+![Katleo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=katleo-rantle&theme=react-dark)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=katleo-rantle&theme=dark&hide_border=false)
 
 ---
 
