@@ -76,6 +76,7 @@ Hands-on cloud projects with full documentation:
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=katleo-rantle&theme=dark&hide_border=false)
+
 ![Katleo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=katleo-rantle&theme=github-dark)
 
 ---
