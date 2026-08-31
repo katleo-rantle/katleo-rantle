@@ -12,11 +12,10 @@ I learn by building, breaking, fixing, and documenting.
 
 🧭 Connect With Me
 
-📄 [View My CV](https://github.com/katleo-rantle/katleo-rantle/raw/main/Katleo_Rantle_CV.pdf)
-
-💼 [LinkedIn](https://www.linkedin.com/in/katleo-rantle-b18a94214/)  
-🌐 [Portfolio](https://katleo.co.za)  
-📧 **kprantle@gmail.com**
+- 📄 [View My CV](https://github.com/katleo-rantle/katleo-rantle/raw/main/Katleo_Rantle_CV.pdf)
+- 💼 [LinkedIn](https://www.linkedin.com/in/katleo-rantle-b18a94214/)  
+- 🌐 [Portfolio](https://katleo.co.za)  
+- 📧 **kprantle@gmail.com**
 
 ---
 
@@ -57,7 +56,6 @@ Hands-on cloud projects with full documentation:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 💻 Frontend
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -66,8 +64,6 @@ Hands-on cloud projects with full documentation:
 ### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🧩 Databases
@@ -79,9 +75,9 @@ Hands-on cloud projects with full documentation:
 
 ## 📊 GitHub Stats
 
-![Katleo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=katleo-rantle&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![Katleo's GitHub stats](https://github-readme-stats-git-masterrst-anuraghazras-projects.vercel.app/api?username=katleo-rantle&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=katleo-rantle&theme=dark&hide_border=false)  
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=katleo-rantle&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrst-anuraghazras-projects.vercel.app/api/top-langs/?username=katleo-rantle&theme=dark&layout=compact)
 
 ---
 
